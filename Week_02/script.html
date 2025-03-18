@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="image.jpg" width="200" height="200" alt="">
+</body>
+<script>
+    const newDiv = document.createElement("div");
+
+    // 텍스트 내용 추가
+    newDiv.innerHTML = "이름: 이재협.<br>주소: 부산 광역시 사하구 감천2동.<br>취미 : 당구.";
+
+    // body에 newDiv 추가
+    document.body.appendChild(newDiv);
+</script>
+</html>
