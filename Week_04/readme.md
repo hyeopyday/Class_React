@@ -120,7 +120,7 @@ componentWillUnmount() {
 
 ---
 
-## 레포트 
+## 실습
 
 * [출력결과]
 
