@@ -1,4 +1,4 @@
-# 📘 React Hooks & Life Cycle 정리
+# 📘 6주차 강의 내용 정리
 
 ## 1. 서론: React Component Life Cycle과 Hook의 등장 배경
 
@@ -143,3 +143,8 @@ React Hook은 다음을 가능하게 합니다:
 ✅ 코드 재사용성 향상 (Custom Hook)
 ✅ 렌더링 최적화 (useMemo, useCallback)
 ✅ DOM 제어 (useRef)
+---
+
+## 참조
+
+* <https://chatgpt.com/>
