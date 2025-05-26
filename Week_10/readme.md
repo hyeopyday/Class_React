@@ -1,4 +1,4 @@
-# 🚀 React Todo List 애플리케이션
+# 10주차 웹 프로그래밍 강의내용 정리
 
 <div align="center">
   
